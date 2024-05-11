@@ -227,7 +227,7 @@ const projects = [
   {
     name: "Health Care",
     description:
-      "A comprehensive travel booking platform Created a healthcare platform that streamlined appointment scheduling, record management, and real-time notifications.",
+      "A comprehensive healthcare platform that streamlined appointment scheduling, record management, and real-time notifications.",
     tags: [
       {
         name: "Next.js",
