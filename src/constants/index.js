@@ -185,7 +185,7 @@ const projects = [
   {
     name: "Real Estate",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Developed end-to-end Real Estate Marketplace app that advantages both customers (to buy/rent properties) and sellers (to post ads about the properties).",
     tags: [
       {
         name: "react",
@@ -206,7 +206,7 @@ const projects = [
   {
     name: "Simply Buy",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that enables users to search for products, wishlist, add to cart or buy the products",
     tags: [
       {
         name: "react",
@@ -227,18 +227,18 @@ const projects = [
   {
     name: "Health Care",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A comprehensive travel booking platform Created a healthcare platform that streamlined appointment scheduling, record management, and real-time notifications.",
     tags: [
       {
-        name: "nextjs",
+        name: "Next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "SQLite",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Django",
         color: "pink-text-gradient",
       },
     ],
