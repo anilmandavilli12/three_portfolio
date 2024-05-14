@@ -36,6 +36,9 @@ const ServiceCard = ({ index, title, icon }) => (
 );
 
 const About = () => {
+  const downloadCV = () => {
+    window.open("https://drive.google.com/file/d/1K6LFZJ6vdfVb9dXH9lKKAgDp93uBKEYA/view?usp=sharing", "_blank");
+  };  
   return (
     <>
       <motion.div variants={textVariant()}>
@@ -52,6 +55,13 @@ const About = () => {
         Angular.js. I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
         real-world problems. Let's stay connected!
+      </motion.p>
+      <motion.p>
+        <button
+              onClick={downloadCV}
+              className={`${styles.heroParaText} mt-2 text-white-100 rounded-full bg-secondary mb-1 p-3 cursor-pointer`}>
+              Download My CV
+        </button>
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

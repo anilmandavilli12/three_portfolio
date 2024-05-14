@@ -4,6 +4,11 @@ import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
 
 const Hero = () => {
+
+  const downloadCV = () => {
+    window.location.href = "https://drive.google.com/file/d/1K6LFZJ6vdfVb9dXH9lKKAgDp93uBKEYA/view?usp=sharing";
+  };
+
   return (
     <section className={`relative w-full h-screen mx-auto`}>
       <div

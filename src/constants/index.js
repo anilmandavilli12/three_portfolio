@@ -15,13 +15,6 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
   iu,
   twomr,
@@ -32,6 +25,10 @@ import {
 } from "../assets";
 
 export const navLinks = [
+  {
+    id: "https://drive.google.com/file/d/1K6LFZJ6vdfVb9dXH9lKKAgDp93uBKEYA/view?usp=sharing",
+    title:"My Resume"
+  },
   {
     id: "about",
     title: "About",
@@ -126,7 +123,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Web Developer",
+    title: "Software Developer",
     company_name: "Indiana University",
     icon: iu,
     iconBg: "#383E56",
