@@ -198,7 +198,7 @@ const projects = [
       },
     ],
     image: propertypros,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/AnilMandavilli594/RealEstate",
   },
   {
     name: "Simply Buy",
@@ -219,7 +219,7 @@ const projects = [
       },
     ],
     image: ecomm,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/AnilMandavilli594/SimplyBuy",
   },
   {
     name: "Health Care",
@@ -240,7 +240,7 @@ const projects = [
       },
     ],
     image: healthcare,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/AnilMandavilli594/Health_Care",
   },
 ];
 
